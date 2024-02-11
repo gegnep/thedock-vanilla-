@@ -70,6 +70,11 @@ hash = "1d13a8f9f1068fafd8848c08b2b64a6d6014de3338ce2c4499e44d6346a35449"
 metafile = true
 
 [[files]]
+file = "mods/camera-mod.pw.toml"
+hash = "7655e60670ee0683fe3020ead2e4f793897945f392cfab900eb9b3b3ce757fd0"
+metafile = true
+
+[[files]]
 file = "mods/catalogue.pw.toml"
 hash = "0722da0022c3d9dcf6be08f561828222f61911b62aed7d8c75f71c126e12e1b8"
 metafile = true
@@ -192,6 +197,11 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0ba2a01934d2de588071ac5a5281dd9a29fc46166fe6b9f99a809a70fe1a6668"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "92e38cb313d5d2748aabde31312b5b08a06a94d8f5559de0bd08c7ff1bd338ef"
 metafile = true
 
 [[files]]
