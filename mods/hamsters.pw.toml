@@ -1,0 +1,13 @@
+name = "Hamsters Plus"
+filename = "hamsters-1.20.1-1.0.2-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "33d8f857d4909b492cb360413cd098193429e044"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5076494
+project-id = 952435

@@ -1,0 +1,13 @@
+name = "The Dock"
+author = "pengeg"
+version = "0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e5e5f225206ef150ef438455aa1c2a775a21c44ac548cf615c8361ae83c639d5"
+
+[versions]
+forge = "47.2.20"
+minecraft = "1.20.1"
