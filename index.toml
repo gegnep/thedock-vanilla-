@@ -86,6 +86,11 @@ hash = "f2bc9a24518e286b908f6e467e92070818ff3c3003d8ff75675b83094c56b10e"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "079900b62dc3db7d111eb5cea93e34867dc26e22243e711734b50181c844c11e"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "6bdf5c00414be2b3bb20d040afe2e90550a300755414aaff01577eed6eaf491f"
 metafile = true
@@ -123,6 +128,16 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36672819f67335f5cdd349f49faa27582d6f7f68955c2a3d0e62584b6d6735ee"
+metafile = true
+
+[[files]]
+file = "mods/cycle-paintings.pw.toml"
+hash = "ed4df500473000f48e15517cdaaf8d85af7a4b40f1f346c6d9f0f4ca5fd5fd15"
+metafile = true
+
+[[files]]
+file = "mods/dark-paintings.pw.toml"
+hash = "b61daed4761340828464f28f2b95b1b64d62d6868852a9f4b005a549a75a3d29"
 metafile = true
 
 [[files]]
@@ -273,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
 hash = "7dda945755d1af637c66ec5da4100f34441cd7da8529bc6c10a57d8d59a84175"
+metafile = true
+
+[[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "d35f82df95be7b038e48f81c290854c19183420a81b8fa5d505c97e23439face"
 metafile = true
 
 [[files]]
