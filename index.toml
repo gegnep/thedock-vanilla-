@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "5f3da18468b583534e67e74db46ec64f9d6a78520aacaf10a8ba4be901f0bdbf"
+
+[[files]]
 file = "mods/aether-delight.pw.toml"
 hash = "c1e73cda7be31eaa0cb6afbd430eae9ad811e6cbb1091abf09c6bc86f527dc0e"
 metafile = true
