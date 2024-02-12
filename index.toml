@@ -75,6 +75,11 @@ hash = "1d13a8f9f1068fafd8848c08b2b64a6d6014de3338ce2c4499e44d6346a35449"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "3f8431a6051fd48b0ab6a2080de605cc8c8cc2a3041800b04c80d32b9ca57547"
+metafile = true
+
+[[files]]
 file = "mods/camera-mod.pw.toml"
 hash = "7655e60670ee0683fe3020ead2e4f793897945f392cfab900eb9b3b3ce757fd0"
 metafile = true
@@ -182,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "7c42037125573675148f40d1be3c2dfbbfb58065de4793828281de9cd70f0588"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "a2663a196a9991708b9eefe7505e1775e67c4ad996a15b493513f318c9b82352"
 metafile = true
 
 [[files]]
