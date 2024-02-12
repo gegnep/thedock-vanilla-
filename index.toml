@@ -45,6 +45,11 @@ hash = "a970ca6ffa0d4d985bc0bcb2e6b51c8a156e6e2a1118c924a4d5c213c9afd15c"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "960890be34fda21cd78de480ca9dc367b518500efde04fc7fc34bc94ac383d89"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "d923b6a71a0c4abe91cac75198a4874f9a3d51535d642512e9358747070380fa"
 metafile = true
@@ -167,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/dungeon-crawl.pw.toml"
 hash = "ee1b4b6d53fce1aa5a3eaa8cb321b56e55a9e3fffeb31152ab1dcd130284eaf1"
+metafile = true
+
+[[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "4a66eb10fbfd1a9cc225eb6c4eadfc03a7938e0427641d25802b7d32748f7a11"
 metafile = true
 
 [[files]]
@@ -365,6 +375,16 @@ hash = "7159460e600aaf9f4a000bc71474227d64481bb15ef16fdd423834aa5df4ba9d"
 metafile = true
 
 [[files]]
+file = "mods/mod-name-tooltip.pw.toml"
+hash = "0f37846b5bc38059aad5800e48e22a7d24b915ef553e3241af2b63e9ba864237"
+metafile = true
+
+[[files]]
+file = "mods/more-dragon-eggs.pw.toml"
+hash = "621f1001c3ea9b962367497181fab21eb0cc64bb8ea0b79e504d85775439f659"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
 metafile = true
@@ -450,6 +470,11 @@ hash = "f896fefa7466845181da9db06ba4a89865f54b406ff3b1fb65773c66614b6f1b"
 metafile = true
 
 [[files]]
+file = "mods/plushie-mod.pw.toml"
+hash = "a73ead836a7d826e4d12436acba18c353983b7625e116098153a5f3f3cc979c9"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "50579877561744484c4174f4ec196863cbba113e75f1b88023972d45dfa8fa8d"
 metafile = true
@@ -515,13 +540,13 @@ hash = "257f1d11449bf03106aa22afe13e8aab71a3c56f62d2b4181c525c8746464c92"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "5bf5faa4a3e31485734580e9b319423bdccf28bc94f91d7164f175fda959a47e"
+file = "mods/storage-drawers.pw.toml"
+hash = "592910d12bfb5966d1c142b2ba219e6b79a09f96e3c06a4cef3d93645d1ec3f7"
 metafile = true
 
 [[files]]
-file = "mods/storage-drawers.pw.toml"
-hash = "592910d12bfb5966d1c142b2ba219e6b79a09f96e3c06a4cef3d93645d1ec3f7"
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
 
 [[files]]
@@ -532,6 +557,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "19da0aa4007bd1ca94537bf80335fe88a87473e34af7b75bafb2e647d0d40562"
+metafile = true
+
+[[files]]
+file = "mods/tetra-tables-looking-neat.pw.toml"
+hash = "d4eba6d1f2ef607c6abb6fb7815c8f2bd245cdf60ea83337ed4eb029126e7ae5"
 metafile = true
 
 [[files]]
