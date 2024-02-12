@@ -545,6 +545,11 @@ hash = "0f648e0a8b0396368660a3e7bc542a3b6b5993d70e8da17a9340a7d335211bce"
 metafile = true
 
 [[files]]
+file = "mods/showcase-item.pw.toml"
+hash = "b9e82a71c1e03c16cced1ea055f4bfa18139ff7f2b1d7108061f8adcd3214ddc"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "7120f86b1433bbedf07c2827de01a09a3add5243fbf977fe18248113e304237a"
 metafile = true
